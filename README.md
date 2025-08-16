@@ -11,6 +11,7 @@
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, MySQL  
 - **DevOps & Tools:** Docker, GitHub Actions, CI/CD, Postman, Git, GitHub  
+- **CMS & eCommerce:** WordPress, Shopify  
 - **Other Skills:** REST APIs, SEO, Figma, Photoshop  
 
 ---
@@ -21,7 +22,8 @@
 - Design and implement **REST APIs & backend systems**  
 - Build **APIs for brands like Bajaj and Snapmint** to enhance integrations  
 - Develop **in-house CRMs** for organizations to manage processes and daily record updates  
-- Build **eCommerce platforms, dashboards, and service apps**  
+- Build and customize **WordPress & Shopify websites**  
+- Create **eCommerce platforms, dashboards, and service apps**  
 - Focus on **performance optimization, UX, and DevOps automation**  
 
 ---
