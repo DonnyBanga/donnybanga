@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Donny Banga  
 
 🚀 **Full-Stack Developer (MERN & Next.js)** with 3+ years of experience in building scalable, high-performance web applications.  
-💻 Passionate about crafting seamless user experiences and writing clean, efficient code.  
+💻 Passionate about crafting seamless user experiences, writing clean code, and exploring DevOps practices for efficient deployments.  
 
 ---
 
 ## 🛠 Tech Stack  
 
-- **Frontend:** React.js, Next.js, TailwindCSS, Bootstrap  
+- **Frontend:** React.js, Next.js, TailwindCSS, Bootstrap, Shadcn, TanStack Query, TanStack Table  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, MySQL  
-- **Other Tools:** Git, GitHub, REST APIs, SEO  
+- **DevOps & Tools:** Docker, GitHub Actions, CI/CD, Postman, Git, GitHub  
+- **Other Skills:** REST APIs, SEO, Figma, Photoshop  
 
 ---
 
@@ -18,8 +19,10 @@
 
 - Develop **modern, responsive, and scalable** full-stack applications  
 - Design and implement **REST APIs & backend systems**  
+- Build **APIs for brands like Bajaj and Snapmint** to enhance integrations  
+- Develop **in-house CRMs** for organizations to manage processes and daily record updates  
 - Build **eCommerce platforms, dashboards, and service apps**  
-- Focus on **performance optimization and UX**  
+- Focus on **performance optimization, UX, and DevOps automation**  
 
 ---
 
