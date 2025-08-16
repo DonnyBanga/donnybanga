@@ -3,6 +3,10 @@
 🚀 **Full-Stack Developer (MERN & Next.js)** with 3+ years of experience in building scalable, high-performance web applications.  
 💻 Passionate about crafting seamless user experiences, writing clean code, and exploring DevOps practices for efficient deployments.  
 
+📧 [donnybangaji@gmail.com](mailto:donnybangaji@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/donny-banga-a28848136/)  
+📄 [Download Resume](https://github.com/DonnyBanga/DonnyBanga/raw/main/donny-banga-mern-resume.pdf)  
+
 ---
 
 ## 🛠 Tech Stack  
