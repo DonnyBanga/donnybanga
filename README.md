@@ -5,7 +5,7 @@
 
 📧 [donnybangaji@gmail.com](mailto:donnybangaji@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/donny-banga-a28848136/)  
-📄 [Download Resume](https://github.com/DonnyBanga/DonnyBanga/raw/main/donny-banga-mern-resume.pdf)  
+📄 [Download Resume](https://github.com/DonnyBanga/DonnyBanga/raw/main/donnybanga-full-stack-cv.pdf)  
 
 ---
 
